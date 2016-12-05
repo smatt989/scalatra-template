@@ -1,9 +1,11 @@
-# Travel-App #
+# Scalatra Template #
+
+This is a scalatra template with a connection to H2 db with Slick and serving up a react/redux web front end.
 
 ## Build & Run ##
 
 ```sh
-$ cd travel
+$ cd scalatra-template
 $ ./sbt
 > jetty:start
 > browse
